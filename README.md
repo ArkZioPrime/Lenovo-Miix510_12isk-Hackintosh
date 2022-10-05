@@ -1,5 +1,5 @@
 # Lenovo-Miix510_12isk-Hackintosh
-## 联想-Miix510-12isk OC引导苹果
+## 联想-Miix510-12isk OC引导Hackintosh
 ## 驱动：
 * 网卡：Intel AC3165正常驱动
 * 声卡：正常驱动
