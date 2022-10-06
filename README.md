@@ -1,4 +1,15 @@
 # Lenovo-Miix510_12isk-Hackintosh
+
+# 参数
+* 品牌型号：联想miix 510
+* cpu：i5 6200U
+* 显卡：hd520
+* 内存：8G
+* 声卡：alc269
+* 无线网卡：intel AC3165
+* 屏幕大小：12.2寸
+* 分辨率：1920x1200
+
 ## 联想-Miix510-12isk OC引导Hackintosh
 ## 驱动：
 * 网卡：Intel AC3165正常驱动
