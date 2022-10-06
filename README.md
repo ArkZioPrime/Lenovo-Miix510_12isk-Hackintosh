@@ -9,6 +9,7 @@
 * 无线网卡：intel AC3165
 * 屏幕大小：12.2寸
 * 分辨率：1920x1200
+* OC -Ver：0.7.9
 
 ## 联想-Miix510-12isk OC引导Hackintosh
 ## 驱动：
