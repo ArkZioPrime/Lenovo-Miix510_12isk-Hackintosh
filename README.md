@@ -2,7 +2,7 @@
 ![avatar](img/miix510.jpg)
 
 # 参数
-* 品牌型号：联想miix 510
+* 品牌型号：联想MIIX 510
 * CPU：i5 6200U
 * 显卡：HD520
 * 内存：8G
