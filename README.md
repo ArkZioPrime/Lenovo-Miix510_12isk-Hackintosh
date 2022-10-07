@@ -1,5 +1,5 @@
-![avatar](img/miix510.jpg)
 # Lenovo-Miix510_12isk-Hackintosh
+![avatar](img/miix510.jpg)
 
 # 参数
 * 品牌型号：联想miix 510
