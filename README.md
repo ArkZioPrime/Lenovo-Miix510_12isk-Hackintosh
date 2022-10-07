@@ -1,4 +1,4 @@
-# Lenovo-Miix510_12isk-Hackintosh
+# Lenovo-Miix510_12isk-Hackintosh(DEV)
 ![avatar](img/miix510.jpg)
 
 # 参数
