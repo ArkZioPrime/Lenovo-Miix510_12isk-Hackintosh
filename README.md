@@ -1,3 +1,4 @@
+![avatar](img/miix510.jpg)
 # Lenovo-Miix510_12isk-Hackintosh
 
 # 参数
