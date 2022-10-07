@@ -12,6 +12,7 @@
 * 分辨率：1920x1200
 * OC -Ver：0.7.9
 * 版本支持：macOS Big Sur macOS Monterey
+* stable
 
 ## 联想-Miix510-12isk OC引导Hackintosh
 ## 驱动：
